@@ -1,0 +1,7 @@
+numpy<1.24
+tradesman
+matplotlib
+openmatrix
+jupyterlab
+pyarrow
+folium
